@@ -1,0 +1,9 @@
+This is not complete, be it versions or the protos itself.
+
+Should be enough for whatever we're realistically doing, though.
+
+Field names and such may change between versions, I don't care enough to standarize it.
+
+And for those who don't know yet, version X.5 equals (X+1).0
+
+E.g. version 4.0.51 means the protobuf can be used for version 4.1.0
