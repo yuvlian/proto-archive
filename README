@@ -1,3 +1,9 @@
+UPDATE: use_tcp seems to be deprecated after 4.2 prod, so either use kcp for your server or use a kcp shim
+
+-----
+
+[//] proto-archive
+
 This is not complete, be it versions or the protos itself.
 
 Should be enough for whatever we're realistically doing, though.
