@@ -21279,8 +21279,8 @@ message FinishCosumeItemMissionScRsp {
 }
 
 message GetMissionStatusCsReq {
-	repeated uint32 main_mission_id_list = 11; 
-	repeated uint32 sub_mission_id_list = 1; 
+	repeated uint32 main_mission_id_list = 1; 
+	repeated uint32 sub_mission_id_list = 11; 
 }
 
 message GetMissionStatusScRsp {
